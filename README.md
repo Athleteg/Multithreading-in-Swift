@@ -1,4 +1,4 @@
-# Multithreading-in-Swift
+# Multithreading in Swift
 
 I am very interested in such a topic as multithreading.
 
